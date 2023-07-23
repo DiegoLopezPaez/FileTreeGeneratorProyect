@@ -1,0 +1,11 @@
+viejaVersionDeFileNameNode
+xmldocuments/
+.gradle/
+build/
+.idea/
+interpreterexample
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
